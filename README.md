@@ -1,4 +1,4 @@
-Hi I'm David and I like coding
+Hi I'm David
 
 I currently know Java the best followed by Python
 
