@@ -1,7 +1,14 @@
-Hi I'm David
+Currently employed at CHECK24 as a Quality Assurance Working Student, writing End to End Tests in Playwright with Typescript
 
-I currently know Java the best followed by Python
+## Languages:
 
-I'm learning C++
+- Java (Spring Boot) 
+- Javascript/Typescript (Node, React, Playwright)
+- C++ (openGL)
+- Python (just the Basics)
 
-Lately I've picked up Neovim and enjoy it
+## About Me:
+
+I enjoy Sports and Music, that's why I play the Guitar and go to the Gym.
+I started Programming in Java when I was about 12 Years old and still enjoy the Problem Solving Part of Programming. 
+I use Neovim as my Code Editor of Choice, because it's fast and customizable, it also gives you the Vim Keybinds, which I like.
