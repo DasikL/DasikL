@@ -1,5 +1,3 @@
-Currently employed at CHECK24 as a Quality Assurance Working Student, writing End to End Tests in Playwright with Typescript
-
 ## Languages:
 
 - Java (Spring Boot) 
