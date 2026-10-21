@@ -1,7 +1,7 @@
 ## Languages:
 
 - Java (Spring Boot) 
-- Javascript/Typescript (Node, React, Playwright)
+- Javascript/Typescript (Node, React, Playwright, Angular, NestJS)
 - C++ (openGL)
 - Python
 
