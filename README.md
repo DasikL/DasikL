@@ -3,10 +3,19 @@
 - Java (Spring Boot) 
 - Javascript/Typescript (Node, React, Playwright)
 - C++ (openGL)
-- Python (just the Basics)
+- Python
 
 ## About Me:
 
-I enjoy Sports and Music, that's why I play the Guitar and go to the Gym.
-I started Programming in Java when I was about 12 Years old and still enjoy the Problem Solving Part of Programming. 
-I use Neovim as my Code Editor of Choice, because it's fast and customizable, it also gives you the Vim Keybinds, which I like.
+I am an aspiring Developer. I like 
+- scheming Architectures
+- working with AI, not being dependent on it, but using it with it's full potential
+- having personal projects
+- using Linux (Arch btw)
+- using Neovim (Vim Motions for the win)
+
+In my free time I'm either:
+  - in the gym, powerlifting
+  - hiking
+  - skiing
+  - with my friends
